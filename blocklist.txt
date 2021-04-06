@@ -9,3 +9,4 @@ ns3.acronis.com
 account.acronis.com
 gateway.acronis.com
 acronis.co
+license.piriform.com
