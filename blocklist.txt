@@ -1,0 +1,11 @@
+liveupdate.acronis.com
+activation.acronis.com
+web-api-tih.acronis.com
+download.acronis.com
+orders.acronis.com
+ns1.acronis.com
+ns2.acronis.com
+ns3.acronis.com
+account.acronis.com
+gateway.acronis.com
+acronis.co
